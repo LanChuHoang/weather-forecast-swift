@@ -15,6 +15,9 @@ A basic weather forecast app for IOS. It using data from [OpenWeatherMap] via th
 ...
 
 ## Screenshots
+![alt text](https://github.com/LanChuHoang/weather-forecast-swift/blob/main/Screenshot/screen1.png?raw=true)
+![alt text](https://github.com/LanChuHoang/weather-forecast-swift/blob/main/Screenshot/screen2.png?raw=true)
+![alt text](https://github.com/LanChuHoang/weather-forecast-swift/blob/main/Screenshot/screen3.png?raw=true)
     
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
